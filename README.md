@@ -1,5 +1,5 @@
 <h1>Hi, I'm Randy, an <www.linkedin.com/in/randy-gentry-82a685110>IT Professional</a>☺</h1>
-
+https://www.linkedin.com/in/randy-gentry-82a685110/#:~:text=www.linkedin.com/in/randy%2Dgentry%2D82a685110
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
