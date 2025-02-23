@@ -2,7 +2,8 @@
 https://www.linkedin.com/in/randy-gentry-82a685110/#:~:text=www.linkedin.com/in/randy%2Dgentry%2D82a685110
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>-
+- - [osTicket: Prerequisites and Installation](https://github.com/Gentry26/osticket-prereqs)
   - [osTicket: Prerequisites and Installation](https://github.com/Gentry26/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Gentry26/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gentry26/ticket-lifecycle)
