@@ -1,4 +1,4 @@
-## Hi there my name is Randy👋
+## Hi there my name is Randy www.linkedin.com/in/randy-gentry26👋
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
